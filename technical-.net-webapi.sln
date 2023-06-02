@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "technical-.netwebapi", "technical-.netwebapi\technical-.netwebapi.csproj", "{9A1EA685-5A04-4F5C-8A73-6EBA39237076}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ranking-app", "ranking-app\ranking-app.csproj", "{9A1EA685-5A04-4F5C-8A73-6EBA39237076}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
